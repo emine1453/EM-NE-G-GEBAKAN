@@ -1,0 +1,71 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    font-family:Helvetica;
+}
+
+
+
+.navbar-brand{
+    margin-top: -10px;
+    margin-bottom: -10px;
+    margin-left: -10px;
+    padding: 0px;
+}
+
+.carousel-inner{
+    
+    padding-right: 0px;
+    margin-right: auto;
+    padding-left: -25px;
+    margin-left: auto;
+    
+
+}
+.resimSlider{
+
+height: 500px;
+}
+#myslider.carousel-item{
+    height: 90px;
+    
+}
+
+
+
+
+
+.hakkimizda{
+background-color: darkgrey;
+
+}
+.star{
+    border:aqua;
+    border-top:3px solid #0000ff;
+    max-width: 250px;
+    margin:25px auto;
+    
+}
+
+.imavi{
+    color:blue;
+    position: relative;
+    top:-43px;
+    border: 10px solid darkgrey;
+    background-color: darkgray;
+font-size: 70px;
+
+
+}
+.iimavi{
+    color:blue;
+    position: relative;
+    top:-43px;
+    border: 10px solid white;
+    background-color: white;
+font-size: 70px;
+
+
+}
+
